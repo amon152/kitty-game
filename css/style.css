@@ -45,7 +45,7 @@ body {
    position: relative;
    font-size: 50px;
    top: 190px;
-   color: grey;
+   color: rgb(119, 115, 115);
 }
 .animate{
    animation: jump 0.3s linear;
